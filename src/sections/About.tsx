@@ -36,17 +36,17 @@ function About() {
                     </p>
                     <ul className="about-grid-info-list">
                         <li className='about-grid-info-list-item'>React</li>
-                         <li className='about-grid-info-list-item'>React</li>
-                          <li className='about-grid-info-list-item'>React</li>
-                           <li className='about-grid-info-list-item'>React</li>
-                            <li className='about-grid-info-list-item'>React</li>
-                             <li className='about-grid-info-list-item'>React</li>
-                              <li className='about-grid-info-list-item'>React</li>
-                               <li className='about-grid-info-list-item'>React</li>
-                                <li className='about-grid-info-list-item'>React</li>
-                                 <li className='about-grid-info-list-item'>React</li>
-                                  <li className='about-grid-info-list-item'>React</li>
-                                   <li className='about-grid-info-list-item'>React</li>
+                         <li className='about-grid-info-list-item'>Next.js</li>
+                          <li className='about-grid-info-list-item'>React-Native</li>
+                           <li className='about-grid-info-list-item'>Python</li>
+                            <li className='about-grid-info-list-item'>Django</li>
+                             <li className='about-grid-info-list-item'>AWS</li>
+                              <li className='about-grid-info-list-item'>Docker</li>
+                               <li className='about-grid-info-list-item'>Linux</li>
+                                <li className='about-grid-info-list-item'>UI/UX</li>
+                                 <li className='about-grid-info-list-item'>OOP</li>
+                                  <li className='about-grid-info-list-item'>CI/CID</li>
+                                   <li className='about-grid-info-list-item'>RESTFUL-API</li>
 
                     </ul>
             </div>

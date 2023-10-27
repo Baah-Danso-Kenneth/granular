@@ -1,3 +1,6 @@
+.zigi{
+  font-family: var(--fire_code);
+}
 .projects {
      margin: 15rem 0;
 
@@ -148,8 +151,8 @@
           }
           .project-info {
             align-items: flex-start;
-            &-overline{
-                font-family: var(--fire_code) !important;
+            .project-info-overline{       
+             
              }
             &-description {
               p {
@@ -203,15 +206,25 @@
           .project-info {
             width: 500px;
             height: 300px;
+
           }
+
         }
+
       }
+
     }
+
     @media screen and (max-width: 600px) {
+
       &-container {
+
         .project {
+
           &-image {
+
             &-container {
+              
               width: 350px;
               height: 400px;
             }
