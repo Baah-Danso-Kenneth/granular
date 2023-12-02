@@ -11,7 +11,6 @@ import {
 function SocialIcons() {
         const socialLinks=[
         {name:'Github', icon:<FiGithub/>, link:"https://www.github.com"},
-        {name:'Youtube', icon:<FiYoutube/>, link:"https://www.youtube.com"},
         {name:'LinkedIn', icon:<FiLinkedin/>, link:"#"},
         {name:'Twitter', icon:<FiTwitter/>, link:'#'},
         {name:'Instagram', icon:<FiInstagram/>, link:'#'}

@@ -14,70 +14,50 @@ function Experience() {
     const experiences=[
         {name:"KoletSpace", 
         role:"Frontend Developer",
-         start:'January 201',
-          end:'present',
+         start:'January 2021',
+          end:'December 2021',
            shortDescription:[
-            "I had experience working on a large codebase utilizing Kibaba and Elasticsearc",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript"
+            "As a Frontend Developer at KoletSpace, I played a pivotal role in crafting engaging user interfaces and ensuring seamless responsive design.",
+            "My responsibilities extended beyond UI creation; I seamlessly integrated backend functionalities with the frontend, ensuring a cohesive and efficient application flow."
+          ]
 
-        ]},
+        },
 
       {name:"BestQuote", 
         role:"FullStack Developer",
-         start:'January 201',
-          end:'present',
+         start:'January 2022',
+          end:'March 2022',
            shortDescription:[
-            "I had experience working on a large codebase utilizing Kibaba and Elasticsearc",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript"
-
+           "As a FullStack Developer at BestQuote, I played a key role in creating APIs and developing frontend pages using React and Django Rest Framework.",
+    "I successfully navigated the project's codebase, ensuring effective communication between the frontend and backend components."
         ]},
 
-       {name:"Bloomberg", 
-        role:"Mobile Developer",
-         start:'January 201',
-          end:'present',
-           shortDescription:[
-            "I had experience working on a large codebase utilizing Kibaba and Elasticsearc",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript"
-
-        ]},
-
-        {name:"Amalitech", 
+        {name:"Amalitech Trainee", 
         role:"Frontend Developer",
-         start:'January 201',
-          end:'present',
+         start:'Feburary 2022',
+          end:'May 2023',
            shortDescription:[
-            "I had experience working on a large codebase utilizing Kibaba and Elasticsearc",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript"
-
+             "As an AmaliTech trainee, I contributed to the development of the authentication system.",
+             "Utilizing the Context API, I seamlessly integrated frontend and backend components, ensuring efficient data flow.",
+             "My responsibilities included fetching data from the backend and creating intuitive UI pages for an enhanced user experience."
         ]},
-
-       {name:"KoletSpace", 
-        role:"UI/UX DEveloper",
-         start:'January 201',
-          end:'present',
-           shortDescription:[
-            "I had experience working on a large codebase utilizing Kibaba and Elasticsearc",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, Typescript"
-
-        ]},
-
         
+        
+        {name:"CodeWright", 
+        role:"Frontend Developer",
+         start:'Feburary 2022',
+          end:'May 2023',
+           shortDescription:[
+          "As a Frontend Developer at CodeWright, I focused on creating challenges with an emphasis on UI and responsive design.",
+          "My role centered around implementing and optimizing user interfaces for foreign clients, ensuring a seamless and engaging experience."
+        ]}  
     ]
+
+
   return (
     <div className='experience' id='experience'>
         <div className="title">
-          <h2>Where I&apos;ve Worked</h2>
+          <h2>experience overview</h2>
         </div>
         <div className="container">
             <ul className="exp-slider">

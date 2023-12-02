@@ -11,28 +11,18 @@ function About() {
         <div className="about-grid">
             <div className="about-grid-info">
                 <p className="about-grid-info-text">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum autem at impedit consequatur veritatis ut aspernatur reiciendis 
-                    obcaecati, nam deleniti magni molestias nostrum blanditiis totam suscipit cum dolor tempore! Rem.
+                   Enthusiastic about coding and eager to embark on a journey of learning and growth, I am excited to contribute to the world of technology through hands-on experience. With a strong attention to detail and a passion for problem-solving, I explore the intricacies of code to turn concepts into reality.
+
                 </p>
                 <p className="about-grid-info-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt corrupti labore animi, accusantium at, sapiente quam quod eligendi maiores placeat consequatur obcaecati 
-                    molestias delectus voluptates facere, consectetur harum omnis corporis.
-                    <Link href="#" className='link' target='_blank'>
-                      CodeWright
-                    </Link>
+               As an intern, I view every coding challenge as an opportunity to expand my skills and embrace new ideas. Whether it &apos;s crafting user-friendly interfaces, working on scalable backend systems, or enhancing performance, I am energized by the dynamic nature of coding.
+
                 </p>
                 <p className="about-grid-info-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur quas error provident doloremque expedita rem porro, amet laborum omnis culpa.
+                    During my coding journey, I am dedicated to honing my skills, emphasizing clean code practices, and staying current with the latest technologies. As an intern eager to integrate into the coding community, I value collaboration, knowledge-sharing, and the continuous pursuit of improvement.
                 </p>
-                <p className="about-grid-info-text">
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, ratione!``
-                    <Link className='link' target='_blank' href="#">
-                        FrontendVita,
-                    </Link>
-                    &nbsp;Lorem, ipsum dolor.
-                    </p>
                     <p className="about-grid-info-text">
-                        Lorem ipsum dolor sit amet.
+                        My skills sets includes
                     </p>
                     <ul className="about-grid-info-list">
                         <li className='about-grid-info-list-item'>React</li>
@@ -54,7 +44,7 @@ function About() {
                 <div className="overlay"></div>
                 <div className="overlay-border"></div>
                 <div className="about-grid-photo-container">
-                    <Image src="/asset 1.png" alt="bunny" fill/>
+                    <Image src="/profile-img.png" alt="bunny" fill/>
                 </div>
             </div>
         </div>
